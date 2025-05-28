@@ -43,7 +43,7 @@ Meet the Team:
 
   ### Briefcase Contributions
   - PR [#2198](https://github.com/beeware/briefcase/pull/2198): Add boolean question (feature)
-  - PR [#2103](https://github.com/beeware/briefcase/pull/2203): Add XML content escaping filter to [cookiecutter.py](http://cookiecutter.py) (feature)
+  - PR [#2103](https://github.com/beeware/briefcase/pull/2203): Add XML content escaping filter to cookiecutter.py (feature)
   - PR [#2199](https://github.com/beeware/briefcase/pull/2199): Add catch exception when deleting JDK (bugfix)
   - PR [#2229](https://github.com/beeware/briefcase/pull/2229): Accept other changelog name and extension (feature)
   - PR [#2201](https://github.com/beeware/briefcase/pull/2201): Add --app option to briefcase build/package (feature)
