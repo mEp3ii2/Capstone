@@ -4,6 +4,8 @@ author: Curtin Capstone Team
 ---
 body:
 
+# **DRAFT BLOG POST**
+
 # Curtin Capstone Collaboration with Beeware 2025
 
 Over the past semester, our team of final year students from Curtin University has been collaborating with the Beeware open source project as part of our university’s Capstone Project.
@@ -49,7 +51,7 @@ Meet the Team:
   - PR [#2201](https://github.com/beeware/briefcase/pull/2201): Add --app option to briefcase build/package (feature)
   - PR [#2214](https://github.com/beeware/briefcase/pull/2214): Add --app option to briefcase create/update (feature)
   - PR [#2236](https://github.com/beeware/briefcase/pull/2236): Normalise contribution docs with Toga (documentation)
-  - PR [#54](https://github.com/beeware/briefcase-windows-VisualStudio-template/pull/54): Uses XML content escaping filter to Visual Studio template. (bugfix) (work in progress)
+  - PR [#54](https://github.com/beeware/briefcase-windows-VisualStudio-template/pull/54): Use XML content escaping filter to Visual Studio template. (bugfix) (work in progress)
 
   ### Toga Contributions
   - PR [#3259](https://github.com/beeware/toga/pull/3259): Add web screenshots (documentation)
@@ -104,4 +106,4 @@ Meet the Team:
   We’ve outlined this in more detail in our [Discussion post on Briefcase](https://github.com/beeware/briefcase/discussions/2282) and are actively researching and working on prototypes
 
 ---
-pub_date: 2025-06-13
+pub_date: 2025-06-XX
